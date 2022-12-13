@@ -6,7 +6,7 @@ class GreenScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      backgroundColor: Colors.red,
+      backgroundColor: Colors.green,
       body: Center(
         child: Text(
           'Green Screen',
